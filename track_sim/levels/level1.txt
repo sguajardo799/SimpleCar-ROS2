@@ -1,0 +1,7 @@
+# Level 1 - Basic
+start_x=0.5
+start_y=0.0
+start_yaw=0.0
+goal_x=12.4
+goal_y=4.3
+goal_radius=0.45
